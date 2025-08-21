@@ -1,0 +1,30 @@
+# Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.sln.docstates
+
+# Built data
+*_BuiltData.uasset
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional: if you generate Android artifacts locally
+*.apk
+*.aab
+
+# Keep these tracked (examples)
+!Config/
+!Content/
+!Source/
+!Plugins/
+!*.uproject
